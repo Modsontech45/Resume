@@ -1,0 +1,39 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background-color: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Table Header Styles */
+th {
+    background-color: #171917;
+    color: white;
+    padding: 12px;
+    text-align: left;
+}
+
+/* Table Data Styles */
+td {
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+/* Row Hover Effect */
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* No Data Message Styles */
+td[colspan="6"] {
+    text-align: center;
+    color: #777;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    table {
+        font-size: 14px;
+    }
+}
