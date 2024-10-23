@@ -809,6 +809,7 @@ h6{
     .first-view{
         display: flex;
         flex-direction: column;
+        margin-top: 400px;
 
 
 
@@ -833,6 +834,7 @@ h6{
         background: transparent;
         border: none;
         margin-top: 200px;
+     
     }
     .hero .Second-part .about .me{
 
@@ -856,7 +858,7 @@ h6{
         align-items: center;
         justify-content: center;
         gap: 4rem;
-        margin-top: 1000px;
+        margin-top: 1500px;
 
     }
     .skills h2{
@@ -936,7 +938,9 @@ h6{
     font-size: 38px;
 }
 
-
+.skills h2{
+    color blue
+}
 
 
 }
