@@ -809,7 +809,7 @@ h6{
     .first-view{
         display: flex;
         flex-direction: column;
-        margin-top: 400px;
+        margin-top: 700px;
 
 
 
@@ -858,7 +858,7 @@ h6{
         align-items: center;
         justify-content: center;
         gap: 4rem;
-        margin-top: 1500px;
+        margin-top: 2000px;
 
     }
     .skills h2{
