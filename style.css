@@ -930,6 +930,11 @@ h6{
  .skill-box .percent-info{
     border: none;
 }
+.first-view .left h2 {
+    margin-top: 40px;
+    font-weight: 700;
+    font-size: 38px;
+}
 
 
 
