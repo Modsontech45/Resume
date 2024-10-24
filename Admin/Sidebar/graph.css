@@ -1,9 +1,0 @@
-
-canvas {
-    margin-top: 20px;
-    width: 70px;
-}
-.chart {
-    max-width: 10%;
-    height: auto; /* Maintain aspect ratio */
-}
